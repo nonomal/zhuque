@@ -1,0 +1,45 @@
+{
+color = 2;
+glyphname = Omegadasiaperispomeni;
+kernLeft = Omegatonos;
+kernRight = Omega;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (150,0);
+ref = Omega;
+},
+{
+anchor = topleft;
+pos = (-41,-36);
+ref = dasiaperispomeni.case;
+}
+);
+width = 952;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (208,0);
+ref = Omega;
+},
+{
+pos = (383,185);
+ref = dasiaperispomeni.case;
+}
+);
+width = 956;
+}
+);
+locked = 1;
+metricLeft = "=Omegatonos";
+production = uni1F6F;
+unicode = 8047;
+}

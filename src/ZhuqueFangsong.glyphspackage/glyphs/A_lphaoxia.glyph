@@ -1,0 +1,46 @@
+{
+color = 2;
+glyphname = Alphaoxia;
+kernLeft = Alphatonos;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (60,0);
+ref = Alpha;
+},
+{
+anchor = topleft;
+pos = (-96,-37);
+ref = oxia;
+}
+);
+width = 644;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (90,0);
+ref = Alpha;
+},
+{
+pos = (196,195);
+ref = oxia;
+}
+);
+width = 766;
+}
+);
+locked = 1;
+metricLeft = "=Alphatonos";
+metricRight = A;
+production = uni1FBB;
+unicode = 8123;
+}

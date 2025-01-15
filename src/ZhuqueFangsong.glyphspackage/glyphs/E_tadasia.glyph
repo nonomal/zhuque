@@ -1,0 +1,46 @@
+{
+color = 2;
+glyphname = Etadasia;
+kernLeft = asterisk;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (108,0);
+ref = Eta;
+},
+{
+anchor = topleft;
+pos = (-127,-36);
+ref = dasia.case;
+}
+);
+width = 862;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (209,0);
+ref = Eta;
+},
+{
+pos = (387,185);
+ref = dasia.case;
+}
+);
+width = 948;
+}
+);
+locked = 1;
+metricLeft = "=Etatonos";
+metricRight = H;
+production = uni1F29;
+unicode = 7977;
+}

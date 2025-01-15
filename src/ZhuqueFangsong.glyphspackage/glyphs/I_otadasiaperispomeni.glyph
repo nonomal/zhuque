@@ -1,0 +1,46 @@
+{
+color = 2;
+glyphname = Iotadasiaperispomeni;
+kernLeft = asterisk;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (192,0);
+ref = Iota;
+},
+{
+anchor = topleft;
+pos = (-70,-36);
+ref = dasiaperispomeni.case;
+}
+);
+width = 553;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (281,0);
+ref = Iota;
+},
+{
+pos = (236,185);
+ref = dasiaperispomeni.case;
+}
+);
+width = 651;
+}
+);
+locked = 1;
+metricLeft = "=Etatonos";
+metricRight = I;
+production = uni1F3F;
+unicode = 7999;
+}

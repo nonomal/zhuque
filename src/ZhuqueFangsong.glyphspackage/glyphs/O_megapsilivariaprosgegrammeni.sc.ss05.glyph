@@ -1,0 +1,44 @@
+{
+color = 2;
+glyphname = Omegapsilivariaprosgegrammeni.sc.ss05;
+kernLeft = Omegatonos;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (-1,0);
+ref = Omegaprosgegrammeni.sc.ss05;
+},
+{
+pos = (734,45);
+ref = psilivaria.case;
+}
+);
+width = 1121;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (298,0);
+ref = Omegaprosgegrammeni.sc.ss05;
+},
+{
+pos = (1033,45);
+ref = psilivaria.case;
+}
+);
+width = 1368;
+}
+);
+locked = 1;
+metricLeft = "=Omegatonos";
+metricRight = "=iota.sc";
+production = uni1FAA.sc.ss05;
+}

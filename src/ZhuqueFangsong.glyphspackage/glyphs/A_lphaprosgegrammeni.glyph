@@ -1,0 +1,41 @@
+{
+color = 2;
+glyphname = Alphaprosgegrammeni;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Alpha;
+},
+{
+pos = (137,0);
+ref = ypogegrammenicomb;
+}
+);
+width = 584;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+ref = Alpha;
+},
+{
+pos = (137,0);
+ref = ypogegrammenicomb;
+}
+);
+width = 676;
+}
+);
+locked = 1;
+production = uni1FBC;
+unicode = 8124;
+}

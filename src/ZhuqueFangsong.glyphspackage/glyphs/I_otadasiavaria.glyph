@@ -1,0 +1,46 @@
+{
+color = 2;
+glyphname = Iotadasiavaria;
+kernLeft = asterisk;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (216,0);
+ref = Iota;
+},
+{
+anchor = topleft;
+pos = (-86,-36);
+ref = dasiavaria.case;
+}
+);
+width = 577;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (393,0);
+ref = Iota;
+},
+{
+pos = (348,185);
+ref = dasiavaria.case;
+}
+);
+width = 763;
+}
+);
+locked = 1;
+metricLeft = "=Etatonos";
+metricRight = I;
+production = uni1F3B;
+unicode = 7995;
+}

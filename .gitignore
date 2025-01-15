@@ -1,4 +1,7 @@
 node_modules
+__pycache__
+fonts
 .DS_Store
 *(Autosaved).*
 *（自动存储）.*
+UIState.plist

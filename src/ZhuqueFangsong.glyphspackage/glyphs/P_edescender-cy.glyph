@@ -1,0 +1,43 @@
+{
+color = 2;
+glyphname = "Pedescender-cy";
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (-8,0);
+ref = "Pe-cy";
+},
+{
+pos = (479,0);
+ref = "descender-cy.case";
+}
+);
+width = 707;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (5,0);
+ref = "Pe-cy";
+},
+{
+pos = (492,0);
+ref = "descender-cy.case";
+}
+);
+width = 762;
+}
+);
+locked = 1;
+production = uni0524;
+unicode = 1316;
+}

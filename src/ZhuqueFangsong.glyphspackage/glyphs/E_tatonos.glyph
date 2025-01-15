@@ -1,0 +1,43 @@
+{
+color = 2;
+glyphname = Etatonos;
+kernLeft = Etatonos;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (100,0);
+ref = Eta;
+},
+{
+anchor = topleft;
+pos = (-161,-37);
+ref = tonos;
+}
+);
+width = 854;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (210,0);
+ref = Eta;
+},
+{
+pos = (389,185);
+ref = tonos;
+}
+);
+width = 949;
+}
+);
+locked = 1;
+unicode = 905;
+}

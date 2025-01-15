@@ -1,0 +1,46 @@
+{
+color = 2;
+glyphname = Alphapsilioxia;
+kernLeft = Alphatonos;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (157,0);
+ref = Alpha;
+},
+{
+anchor = topleft;
+pos = (-60,-36);
+ref = psilioxia.case;
+}
+);
+width = 741;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (261,0);
+ref = Alpha;
+},
+{
+pos = (339,195);
+ref = psilioxia.case;
+}
+);
+width = 937;
+}
+);
+locked = 1;
+metricLeft = "=Alphatonos";
+metricRight = Alpha;
+production = uni1F0C;
+unicode = 7948;
+}

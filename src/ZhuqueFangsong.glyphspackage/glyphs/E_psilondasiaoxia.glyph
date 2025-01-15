@@ -1,0 +1,46 @@
+{
+color = 2;
+glyphname = Epsilondasiaoxia;
+kernLeft = asterisk;
+kernRight = E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (226,0);
+ref = Epsilon;
+},
+{
+anchor = topleft;
+pos = (-88,-36);
+ref = dasiaoxia.case;
+}
+);
+width = 817;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (394,0);
+ref = Epsilon;
+},
+{
+pos = (464,185);
+ref = dasiaoxia.case;
+}
+);
+width = 997;
+}
+);
+locked = 1;
+metricLeft = "=Etatonos";
+metricRight = E;
+production = uni1F1D;
+unicode = 7965;
+}

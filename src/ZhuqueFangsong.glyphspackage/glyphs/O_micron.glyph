@@ -1,0 +1,42 @@
+{
+color = 2;
+glyphname = Omicron;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+anchors = (
+{
+name = topleft;
+pos = (25,637);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = O;
+}
+);
+width = 692;
+},
+{
+anchors = (
+{
+name = topleft;
+pos = (-56,647);
+}
+);
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = O;
+}
+);
+width = 692;
+}
+);
+locked = 1;
+unicode = 927;
+}

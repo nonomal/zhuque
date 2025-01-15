@@ -1,0 +1,46 @@
+{
+color = 2;
+glyphname = Etapsilioxiaprosgegrammeni;
+kernLeft = Etatonos;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (229,0);
+ref = Etaprosgegrammeni;
+},
+{
+anchor = topleft;
+pos = (-93,-36);
+ref = psilioxia.case;
+}
+);
+width = 983;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (391,0);
+ref = Etaprosgegrammeni;
+},
+{
+pos = (542,185);
+ref = psilioxia.case;
+}
+);
+width = 1130;
+}
+);
+locked = 1;
+metricLeft = "=Etatonos";
+metricRight = "=H";
+production = uni1F9C;
+unicode = 8092;
+}

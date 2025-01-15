@@ -1,0 +1,46 @@
+{
+color = 2;
+glyphname = Omicronpsilivaria;
+kernLeft = Omicrontonos;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (164,0);
+ref = Omicron;
+},
+{
+anchor = topleft;
+pos = (-107,-36);
+ref = psilivaria.case;
+}
+);
+width = 856;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (331,0);
+ref = Omicron;
+},
+{
+pos = (451,185);
+ref = psilivaria.case;
+}
+);
+width = 986;
+}
+);
+locked = 1;
+metricLeft = "=Omicrontonos";
+metricRight = O;
+production = uni1F4A;
+unicode = 8010;
+}

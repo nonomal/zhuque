@@ -1,0 +1,46 @@
+{
+color = 2;
+glyphname = Epsilonpsilioxia;
+kernLeft = asterisk;
+kernRight = E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (229,0);
+ref = Epsilon;
+},
+{
+anchor = topleft;
+pos = (-93,-36);
+ref = psilioxia.case;
+}
+);
+width = 820;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (391,0);
+ref = Epsilon;
+},
+{
+pos = (461,185);
+ref = psilioxia.case;
+}
+);
+width = 994;
+}
+);
+locked = 1;
+metricLeft = "=Etatonos";
+metricRight = E;
+production = uni1F1C;
+unicode = 7964;
+}

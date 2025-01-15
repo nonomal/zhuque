@@ -1,0 +1,39 @@
+{
+color = 2;
+glyphname = "chedieresis-cy";
+kernLeft = u;
+kernRight = u;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "che-cy";
+},
+{
+pos = (18,0);
+ref = dieresiscomb;
+}
+);
+width = 479;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = "che-cy";
+},
+{
+pos = (18,0);
+ref = dieresiscomb;
+}
+);
+width = 479;
+}
+);
+locked = 1;
+production = uni04F5;
+unicode = 1269;
+}

@@ -1,0 +1,44 @@
+{
+color = 2;
+glyphname = Etapsilivariaprosgegrammeni.sc.ss05;
+kernLeft = Etatonos;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (-46,0);
+ref = Etaprosgegrammeni.sc.ss05;
+},
+{
+pos = (642,45);
+ref = psilivaria.case;
+}
+);
+width = 1029;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (371,0);
+ref = Etaprosgegrammeni.sc.ss05;
+},
+{
+pos = (1059,45);
+ref = psilivaria.case;
+}
+);
+width = 1432;
+}
+);
+locked = 1;
+metricLeft = "=Etatonos";
+metricRight = "=iota.sc";
+production = uni1F9A.sc.ss05;
+}

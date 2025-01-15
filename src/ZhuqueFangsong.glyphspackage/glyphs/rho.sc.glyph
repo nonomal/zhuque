@@ -1,0 +1,70 @@
+{
+color = 2;
+glyphname = rho.sc;
+kernLeft = H;
+kernRight = P;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (200,0);
+},
+{
+name = top;
+pos = (248,497);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = p.sc;
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 11;
+height = 78;
+weight = -3;
+width = 82;
+};
+};
+width = 479;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (200,0);
+},
+{
+name = top;
+pos = (244,503);
+}
+);
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = p.sc;
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 7;
+height = 77.5;
+weight = -22;
+width = 83;
+};
+};
+width = 479;
+}
+);
+locked = 1;
+userData = {
+RMXScaler = {
+source = P;
+};
+};
+}

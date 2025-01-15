@@ -1,0 +1,46 @@
+{
+color = 2;
+glyphname = Alphadasiaoxiaprosgegrammeni;
+kernLeft = Alphatonos;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (154,0);
+ref = Alphaprosgegrammeni;
+},
+{
+anchor = topleft;
+pos = (-55,-36);
+ref = dasiaoxia.case;
+}
+);
+width = 738;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (264,0);
+ref = Alphaprosgegrammeni;
+},
+{
+pos = (342,195);
+ref = dasiaoxia.case;
+}
+);
+width = 940;
+}
+);
+locked = 1;
+metricLeft = "=Alphatonos";
+metricRight = "=A";
+production = uni1F8D;
+unicode = 8077;
+}

@@ -1,0 +1,51 @@
+{
+color = 2;
+glyphname = "we-cy.sc";
+kernLeft = V;
+kernRight = V;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = w.sc;
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 11;
+height = 78;
+weight = -3;
+width = 82;
+};
+};
+width = 793;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = w.sc;
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 7;
+height = 77.5;
+weight = -22;
+width = 83;
+};
+};
+width = 793;
+}
+);
+locked = 1;
+production = uni051D.sc;
+userData = {
+RMXScaler = {
+source = "We-cy";
+};
+};
+}

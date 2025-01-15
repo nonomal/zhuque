@@ -1,0 +1,31 @@
+{
+color = 2;
+glyphname = "aie-cy";
+kernLeft = a;
+kernRight = e;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = ae;
+}
+);
+width = 653;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = ae;
+}
+);
+width = 653;
+}
+);
+locked = 1;
+production = uni04D5;
+unicode = 1237;
+}

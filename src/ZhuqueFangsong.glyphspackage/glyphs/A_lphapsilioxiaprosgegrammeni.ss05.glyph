@@ -1,0 +1,45 @@
+{
+color = 2;
+glyphname = Alphapsilioxiaprosgegrammeni.ss05;
+kernLeft = Alphatonos;
+kernRight = iota;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (97,0);
+ref = Alphaprosgegrammeni.ss05;
+},
+{
+anchor = topleft;
+pos = (-60,-36);
+ref = psilioxia.case;
+}
+);
+width = 1009;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (244,0);
+ref = Alphaprosgegrammeni.ss05;
+},
+{
+pos = (792,0);
+ref = psilioxia.case;
+}
+);
+width = 1190;
+}
+);
+locked = 1;
+metricLeft = "=Alphatonos";
+metricRight = "=iota";
+production = uni1F8C.ss05;
+}

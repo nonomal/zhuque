@@ -1,0 +1,16 @@
+{
+color = 9;
+glyphname = emdash.upper;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,60);
+ref = emdash.lower;
+}
+);
+width = 918;
+}
+);
+}

@@ -1,0 +1,45 @@
+{
+color = 2;
+glyphname = Etadasiaoxiaprosgegrammeni.ss05;
+kernLeft = asterisk;
+kernRight = iota;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (226,0);
+ref = Etaprosgegrammeni.ss05;
+},
+{
+anchor = topleft;
+pos = (-88,-36);
+ref = dasiaoxia.case;
+}
+);
+width = 1248;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (394,0);
+ref = Etaprosgegrammeni.ss05;
+},
+{
+pos = (1052,0);
+ref = dasiaoxia.case;
+}
+);
+width = 1406;
+}
+);
+locked = 1;
+metricLeft = "=Etatonos";
+metricRight = "=iota";
+production = uni1F9D.ss05;
+}

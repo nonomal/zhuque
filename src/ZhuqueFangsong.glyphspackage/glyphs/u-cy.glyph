@@ -1,0 +1,35 @@
+{
+color = 2;
+glyphname = "u-cy";
+kernLeft = v;
+kernRight = v;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (4,0);
+ref = y;
+}
+);
+width = 453;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (11,0);
+ref = y;
+}
+);
+width = 514;
+}
+);
+locked = 1;
+production = uni0443;
+unicode = 1091;
+}

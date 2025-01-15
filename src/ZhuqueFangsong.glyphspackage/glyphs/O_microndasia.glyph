@@ -1,0 +1,46 @@
+{
+color = 2;
+glyphname = Omicrondasia;
+kernLeft = Omicrontonos;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (51,0);
+ref = Omicron;
+},
+{
+anchor = topleft;
+pos = (-143,-36);
+ref = dasia.case;
+}
+);
+width = 743;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+alignment = -1;
+pos = (169,0);
+ref = Omicron;
+},
+{
+pos = (316,185);
+ref = dasia.case;
+}
+);
+width = 824;
+}
+);
+locked = 1;
+metricLeft = "=Omicrontonos";
+metricRight = O;
+production = uni1F49;
+unicode = 8009;
+}

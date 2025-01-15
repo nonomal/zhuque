@@ -1,0 +1,50 @@
+{
+color = 2;
+glyphname = kappa.sc;
+kernLeft = H;
+kernRight = X;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = k.sc;
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 11;
+height = 78;
+weight = -3;
+width = 82;
+};
+};
+width = 543;
+},
+{
+associatedMasterId = m01;
+layerId = UUID1;
+name = Black;
+shapes = (
+{
+ref = k.sc;
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 7;
+height = 77.5;
+weight = -22;
+width = 83;
+};
+};
+width = 543;
+}
+);
+locked = 1;
+userData = {
+RMXScaler = {
+source = K;
+};
+};
+}
